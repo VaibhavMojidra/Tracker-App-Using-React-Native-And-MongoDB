@@ -2,9 +2,10 @@
 
 ![Tracker_App](https://github.com/VaibhavMojidra/Tracker-App-Using-React-Native-And-MongoDB/blob/master/Screenshots/Tracker_App.gif)
 
-Tracker App is an tracking application which allow you to record and save the tracks/routes that you have been walk through. This app is made over React Native hence it runs on both IOS and Android. And all the data is stored on MongoDB
+Tracker App is an tracking application which allow you to record and save the tracks/routes that you have been walk through. This app is made over React Native hence it runs on both IOS and Android. And all the data is stored on MongoDB Cloud
 
-- MongoDB
+- ngrok
+- MongoDB Cloud.
 - Hashing using Bcrypt
 - Rainbow Table Attack - Salting
 - React Navigation v4
